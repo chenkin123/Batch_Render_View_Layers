@@ -15,7 +15,7 @@
 
 <div _ngcontent-ng-c1448864137="" inline-copy-host="" class="markdown markdown-main-panel stronger enable-updated-hr-color" id="model-response-message-contentr_05d8cd1ac90077ec" aria-live="off" aria-busy="false" dir="ltr" style="--animation-duration: 400ms; --fade-animation-function: linear;">
   <b data-path-to-node="0" data-index-in-node="13">1.2.3 版本</b>的主要更新集中在<b data-path-to-node="0" data-index-in-node="29">操作自動化</b>、<b data-path-to-node="0" data-index-in-node="35">即時預覽</b>以及<b data-path-to-node="0" data-index-in-node="41">任務管理的靈活性</b>。</p>
-  <p data-path-to-node="1">以下是具體的更新重點：</p>
+  <p data-path-to-node="1">更新重點：</p>
   <h3 data-path-to-node="3">1. 任務選取與自動化流程</h3><ul data-path-to-node="1"><li>
     <p data-path-to-node="4,0,0"><b data-path-to-node="4,0,0" data-index-in-node="0">從「標記完成」改為「勾選啟動」：</b> 新版本不再只是顯示一個打勾符號，而是新增了實質的勾選框（Checkbox）。只有被勾選的任務才會進入排程。</p>
   </li><li><p data-path-to-node="4,1,0"><b data-path-to-node="4,1,0" data-index-in-node="0">自動取消勾選：</b> 當某個任務算圖完成後，系統會<b data-path-to-node="4,1,0" data-index-in-node="22">自動取消</b>該任務的勾選。這樣下次按下算圖時，就不會重複算到已經完成的東西。</p>
